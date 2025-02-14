@@ -1,4 +1,8 @@
+
+<img src="https://media4.giphy.com/media/xT39Dfh52mXvar4FMI/giphy.gif?cid=ecf05e472lbsbequwn42g1oam7ztzn8djd8c8wzkh4p1x0k2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="100%" height="10" />
 <h1 align="center">Hi 👋, I'm Paramesh</h1>
+<img src="https://media4.giphy.com/media/xT39Dfh52mXvar4FMI/giphy.gif?cid=ecf05e472lbsbequwn42g1oam7ztzn8djd8c8wzkh4p1x0k2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="100%" height="10" />
+
 
 <h3 align="center"><em>A Passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></h3>
 
